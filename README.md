@@ -1,1 +1,1 @@
-Go API Practice 
+Go API Practice using the Gin framework.
