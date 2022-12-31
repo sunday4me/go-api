@@ -10,3 +10,6 @@ curl localhost:8080/books
 
 Once you are running your server from one terminal and using curl in the other terminal to access the files
 
+
+curl localhost:8080/return?id=4 --request "PATCH"
+
